@@ -1,1 +1,1 @@
-# credit_score_analysis
+# Practicum projects
