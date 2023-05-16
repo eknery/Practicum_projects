@@ -1,1 +1,1 @@
-# Practicum projects
+# practicum projects
