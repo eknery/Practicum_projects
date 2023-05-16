@@ -8,9 +8,9 @@ The project is Phyton-based, utilzing mainly the **pandas**, **matplotlib**, and
 
 ## Data
 The dataset is dataframe including:
-*Name: name of the video game
-*Platform: platform where the videog game was released
-*Year_of_Release: year when the video game was first released
+* Name: name of the video game
+* Platform: platform where the videog game was released
+* Year_of_Release: year when the video game was first released
 *Genre: type of video game
 *NA_sales: total sale in North America, in million USD
 *EU_sales: total sale in Europe, in million USD
