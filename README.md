@@ -1,6 +1,7 @@
 # practicum projects
 
-This repository holds my projects during the Data-Scientist training program from Practicum. 
+This repository holds my projects completed during the Practicum's Data Scientist training programs. The projects are as follows:
+
 
 Project | Description | Language | Libraries
 ------- | ----------- | -------- | ---------
