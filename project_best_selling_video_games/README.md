@@ -1,7 +1,7 @@
 # Os vídeo games de sucesso
 
 ## Descrição
-Esse projeto objetivou a exploração de variáveis que possam predizer a venda de vídeo games ao longo dos anos.Eu foquei nas variáveis que pdoeriam predizer as vendas de 2017. Eu utilizei dados de um rede fictícia, a *ICE online store*.
+Esse projeto objetivou a exploração de variáveis que possam predizer a venda de vídeo games ao longo dos anos. Eu foquei nas variáveis que poderiam predizer as vendas de 2017. Eu utilizei dados de um rede fictícia, a *ICE online store*.
 
 ## Linguagem e bibliotecas
 O projeto é baseado em Python, e utilza principalmente as bibliotecas *pandas*, *matplotlib*, e *seaborn*.
