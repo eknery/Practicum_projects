@@ -12,10 +12,10 @@ Os dados estão em um *dataframe* que inclui:
 * Platform: paltaforma para a qual o jogo foi lançado
 * Year_of_Release: ano de lançamento do jogo
 * Genre: tipo do jogo
-* NA_sales: vendas totais na América do Norte, em milhões de dólares (U$D)
-* EU_sales: vendas totais na Europa, em milhões de dólares (U$D)
-* JP_sales: vendas totais no Japão, em milhões de dólares (U$D)
-* Other_sales: vendas totais em outras regiões, em milhões de dólares (U$D)
+* NA_sales: vendas totais na América do Norte, em milhões de dólares (USD)
+* EU_sales: vendas totais na Europa, em milhões de dólares (USD)
+* JP_sales: vendas totais no Japão, em milhões de dólares (USD)
+* Other_sales: vendas totais em outras regiões, em milhões de dólares (USD)
 * Critic_Score: avaliação do jogo segundo a crítica especializada, máximo até 100 scores
 * User_Score:  avaliação do jogo segundo os clientes, máximo até 10 scores
 * Rating: avaliação do jogo segundo o ESRB
