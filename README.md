@@ -1,8 +1,7 @@
 # practicum projects
 
-This repository holds my projects completed during the Practicum's Data Scientist training programs. The projects are as follows:
+Esse repositório guarda meus projetos completados durante o curso de "Ciência de Dados" da Practicum. A descrição dos projetos é como se segue:
 
-
-Project | Description | Language | Libraries
+Projeto | Descrição | Linguagem | Bibliotecas
 ------- | ----------- | -------- | ---------
-[Best selling video games](https://github.com/eknery/practicum_projects/tree/main/project_best_selling_video_games) | Exploring variables that can predict the sales of video games over the years | Python | *pandas*, *matplotlib*, *seaborn*
+[Os vídeo games de sucesso](https://github.com/eknery/practicum_projects/tree/main/project_best_selling_video_games) | Explora variáveis que possam predizer as tendências de vendas de vídeo games ao longo dos anos | Python | *pandas*, *matplotlib*, *seaborn*
