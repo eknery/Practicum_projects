@@ -1,21 +1,21 @@
-# best selling video games
+# Os vídeo games de sucesso
 
-## Description
-The project aimed to explore variables that can predict the sales of video games over the years. I have focused mainly on variables that could predict the sales in 2017. I have utilized data on the *fictional* ICE online store.
+## Descrição
+Esse projeto objetivou a exploração de variáveis que possam predizer a venda de vídeo games ao longo dos anos.Eu foquei nas variáveis que pdoeriam predizer as vendas de 2017. Eu utilizei dados de um rede fictícia, a *ICE online store*.
 
-## Language and libraries
-The project is Phyton-based, utilzing mainly the **pandas**, **matplotlib**, and **seaborn** libraries
+## Linguagem e bibliotecas
+O projeto é baseado em Python, e utilza principalmente as bibliotecas *pandas*, *matplotlib*, e *seaborn*.
 
-## Data
-The dataset is a dataframe including:
-* Name: name of the video game
-* Platform: platform where the videog game was released
-* Year_of_Release: year when the video game was first released
-* Genre: type of video game
-* NA_sales: total sale in North America, in million USD
-* EU_sales: total sale in Europe, in million USD
-* JP_sales: total sale in Japan, in million USD
-* Other_sales: total sales in all other regions, in million USD
-* Critic_Score: video game evalatution by the critics, maximum of 100 scores
-* User_Score: video game evalatution by the users, maximum of 10 scores
-* Rating: video game evaluation by ESRB
+## Dados
+Os dados estão em um *dataframe* que inclui:
+* Name: nome dos jogos
+* Platform: paltaforma para a qual o jogo foi lançado
+* Year_of_Release: ano de lançamento do jogo
+* Genre: tipo do jogo
+* NA_sales: vendas totais na América do Norte, em milhões de dólares (U$D)
+* EU_sales: vendas totais na Europa, em milhões de dólares (U$D)
+* JP_sales: vendas totais no Japão, em milhões de dólares (U$D)
+* Other_sales: vendas totais em outras regiões, em milhões de dólares (U$D)
+* Critic_Score: avaliação do jogo segundo a crítica especializada, máximo até 100 scores
+* User_Score:  avaliação do jogo segundo os clientes, máximo até 10 scores
+* Rating: avaliação do jogo segundo o ESRB
