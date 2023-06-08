@@ -1,4 +1,4 @@
-# practicum projects
+# Projetos Practicum
 
 Esse repositório guarda meus projetos completados durante o curso de "Ciência de Dados" da Practicum. A descrição dos projetos é como se segue:
 
